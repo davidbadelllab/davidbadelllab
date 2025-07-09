@@ -53,7 +53,7 @@ Mi expertise es la capacidad de adaptarme, liderar y entregar resultados que imp
 * ⚡  I dream of belonging to a company, team or project that truly creates truly revolutionary tools in the market.
 
 <a href="https://www.github.com/davidbadelllab?tab=repositories" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/davidbadelllab?tab=repositories?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/davidbadelllab?tab=repositories?logo=github&style=for-the-badge&color=0891b2&labelColor=171717" /></a>
 
 ### Skills
 
@@ -69,8 +69,4 @@ src="https://img.shields.io/github/followers/davidbadelllab?tab=repositories?log
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/davidbadelllab?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=davidbadelllab?tab=repositories&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="davidbadelllab?tab=repositories's GitHub stats" /></a>
-
-<a href="https://github.com/davidbadelllab?tab=repositories" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidbadelllab?tab=repositories&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/davidbadelllab?tab=repositories" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidbadelllab?tab=repositories&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
