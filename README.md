@@ -379,17 +379,13 @@ mindmap
 </tr>
 </table>
 
-### 💻 Lenguajes & Tecnologías
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidbadelllab&layout=donut&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8&hide=html,css&size_weight=0.5&count_weight=0.5" alt="Top Languages" width="38%" />
 
 ### 🏆 Trofeos de GitHub
 
 <img src="https://github-profile-trophy.vercel.app/?username=davidbadelllab&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%" />
 
-### 📊 Gráfico de Contribuciones
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=davidbadelllab&theme=github-compact&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF" alt="Contribution Graph" width="100%" />
 
 </div>
 
